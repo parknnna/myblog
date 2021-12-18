@@ -1,0 +1,9 @@
+/.classpath
+/.gradle
+/.project
+/.settings
+/.vscode
+src/main/resources/application-API-KEY.yml
+build/**
+bin/**
+

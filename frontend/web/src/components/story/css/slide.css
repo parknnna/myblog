@@ -1,0 +1,15 @@
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.each-fade{
+    text-align: center;
+}
+
+.slide-container img{
+    width: 50%;
+    height: 50%;
+}
